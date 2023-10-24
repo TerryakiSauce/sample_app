@@ -1,0 +1,49 @@
+{
+	"id": "1e6de14f-8d0d-4330-a4ee-1678b0ba5836",
+	"createdAt": "2023-10-24T08:59:10.000Z",
+	"createdBy": "admin",
+	"git": {
+		"remote": "https://github.com/TerryakiSauce/sample_app.git"
+	},
+	"name": "sample_app",
+	"description": null,
+	"ver": "23.10.24.113",
+	"enableCICD": true,
+	"apps": [
+		{
+			"id": "636b46f3-b16f-4242-dfcc-22cc2e5ca324",
+			"application": "sample",
+			"title": "Sample sap.m.Bar",
+			"description": "sap.m.Bar"
+		}
+	],
+	"api": [],
+	"odataSource": [],
+	"odataMock": [],
+	"dictionary": [],
+	"jsclass": [],
+	"jsscript_group": [],
+	"theme": [],
+	"pdf": [],
+	"rulesengine": [],
+	"reports": [],
+	"api_authentication": [],
+	"api_group": [],
+	"tile": [],
+	"category": [],
+	"launchpad": [],
+	"certificates": [],
+	"role": [],
+	"systems": [],
+	"doc": [],
+	"wf_notifications": [],
+	"department": [],
+	"script_scheduler": [],
+	"wf_definition": [],
+	"connector": [],
+	"events": [],
+	"media_library": [],
+	"code_snippets": [],
+	"wf_determination": [],
+	"wf_taskaction": []
+}
