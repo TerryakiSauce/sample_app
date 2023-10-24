@@ -556,13 +556,6 @@
 													"value": "Compact",
 													"script": "",
 													"translation": []
-												},
-												{
-													"attribute": "press",
-													"grouping": "Events",
-													"value": "Anonymous Function",
-													"script": "file://event/sap.m.ToggleButton/oToggleButton/press.script",
-													"translation": []
 												}
 											],
 											"data": []
@@ -652,13 +645,6 @@
 													"value": "Open In App Designer",
 													"script": "",
 													"translation": []
-												},
-												{
-													"attribute": "press",
-													"grouping": "Events",
-													"value": "Anonymous Function",
-													"script": "file://event/sap.m.Button/oButton/press.script",
-													"translation": []
 												}
 											],
 											"data": []
@@ -681,7 +667,7 @@
 		}
 	],
 	"componentInterface": [],
-	"ver": "23.10.24.1059",
+	"ver": "23.10.24.115",
 	"application": "sample",
 	"title": "Sample sap.m.Bar",
 	"description": "sap.m.Bar",
